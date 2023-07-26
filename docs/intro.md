@@ -11,6 +11,8 @@ description: "A collection of resources for the OPOS Hackathon."
 
 <!-- {%youtube ytvidIdhere %} -->
 
+Welcome! This is a collection of resources to help you build something that is only possible on Solana. 
+
 Paths:
 - Solana Mobile
 - DePIN

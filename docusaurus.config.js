@@ -59,7 +59,11 @@ const config = {
     ({
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
-      defaultMode: 'dark',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'Only Possible on Solana',
         logo: {
